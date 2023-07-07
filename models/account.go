@@ -1,7 +1,9 @@
 package models
 
-type Account struct{
+type Account struct {
 	AccountNumber string
 	AccountHolder string
 	Balance       float64
 }
+
+
