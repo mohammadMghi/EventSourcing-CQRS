@@ -2,7 +2,7 @@
 package events
 
 import(
-	queries "github.com/mohammadMghi/eventSourcing-SQRS/queries"
+	queries "github.com/mohammadMghi/eventSourcing-CQRS/queries"
  
 )
 // Event Handler

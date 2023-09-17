@@ -2,7 +2,7 @@ package commands
 
 
 import(
-	events "github.com/mohammadMghi/eventSourcing-SQRS/events"
+	events "github.com/mohammadMghi/eventSourcing-CQRS/events"
  
 )
 // Command Model

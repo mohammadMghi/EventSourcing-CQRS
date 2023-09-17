@@ -1,7 +1,7 @@
 package queries
 
 import(
-	modles "github.com/mohammadMghi/eventSourcing-SQRS/models"
+	modles "github.com/mohammadMghi/eventSourcing-CQRS/models"
 )
 // Query Model
 type AccountQueryModel struct {
