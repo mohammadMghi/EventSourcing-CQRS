@@ -1,10 +1,10 @@
 package main
 
 import (
-	events "github.com/mohammadMghi/eventSourcing-SQRS/events"
-	commands "github.com/mohammadMghi/eventSourcing-SQRS/commands"
-	modles "github.com/mohammadMghi/eventSourcing-SQRS/models"
-	queries "github.com/mohammadMghi/eventSourcing-SQRS/queries"
+	events "github.com/mohammadMghi/eventSourcing-CQRS/events"
+	commands "github.com/mohammadMghi/eventSourcing-CQRS/commands"
+	modles "github.com/mohammadMghi/eventSourcing-CQRS/models"
+	queries "github.com/mohammadMghi/eventSourcing-CQRS/queries"
 	"fmt"
  
 )
